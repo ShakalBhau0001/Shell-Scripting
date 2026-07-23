@@ -14,8 +14,7 @@ Shell-Scripting/
 ├── 04_Strings/             # string operations
 ├── 05_Conditionals/        # if, if-else, elif, switch-case
 ├── 06_Loops/               # for, while, until, infinite
-├── 07_Arrays/              # indexed & key-value arrays
-└── 08_Assignments/         # practice problems & solutions
+└── 07_Arrays/              # indexed & key-value arrays
 ```
 
 ---
@@ -106,7 +105,7 @@ bash script_name.sh
 
 ## 👨‍💻 Author
 
-> **Shakal Bhau**
+> **Creator: Shakal Bhau**
 
 > **GitHub: [ShakalBhau0001](https://github.com/ShakalBhau0001)**
 
